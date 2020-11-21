@@ -1,4 +1,1 @@
 # Minesweeper-Python
----
-
-## Tutorial
