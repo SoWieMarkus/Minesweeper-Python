@@ -6,8 +6,8 @@ First you are asked to initialize the gameboard. For that you will be asked for 
 
 Now you can enter "commands" to clear the board. There are two different commands. Both are three characters long.
 
-Fxy ... Mark field with coordinates x and y as unsafe  
-Cxy ... Uncover field with coordinates x and y
+F<x><y> ... Mark field with coordinates x and y as unsafe  
+C<x><y> ... Uncover field with coordinates x and y
 
 For example: _Mark field with x = 0 and y = 3 as unsafe_
 
