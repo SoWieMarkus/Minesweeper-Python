@@ -1,5 +1,7 @@
 # Minesweeper-Python
 
+*_Requires python packages random and os_*
+
 First you are asked to initialize the gameboard. For that you will be asked for a height and width (both times a value between 1 and 9). The max size of the gameboard will look something like this:
 
 ![](./screenshots/minesweeper_game_all_covered.png)
